@@ -1,6 +1,6 @@
 # QnA Pytorch Reimplementation
 
-This Repo is the reimplementation of QnA which is originally implemented by JAX.
+This Repo is the pytorch reimplementation of QnA, which is originally implemented by JAX.
 
 
 ![QnA-Overview](qna_github.png)
