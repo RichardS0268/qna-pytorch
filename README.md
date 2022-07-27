@@ -7,7 +7,7 @@ This Repo is the reimplementation of QnA which is originally implemented by JAX.
 
 #### Reference
 [ [Arxiv](https://arxiv.org/abs/2112.11435) ]
-[ [Original Repo](https://github.com/moabarar/qna) ]
+[ [Official Jax Implementation](https://github.com/moabarar/qna) ]
 
 
 
